@@ -1,0 +1,11 @@
+@media (max-width: 500px) {
+    .container {
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+    }
+
+    .show-result {
+        border-radius: 0px 0px 10px 10px;
+    }
+}
